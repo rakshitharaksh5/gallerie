@@ -16,4 +16,4 @@
 - https://fonts.google.com/specimen/Press+Start+2P?query=press+#standard-styles
 
 ## Hosted URL
-
+- https://photo-album-gallerie.netlify.app/
